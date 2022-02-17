@@ -4,6 +4,6 @@ public class Demo {
     public static void main(String[] args) {
 
         //int sum = a+b;
-        New.N(10);
+        New.N(20);
     }
 }
