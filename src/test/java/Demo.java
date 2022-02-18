@@ -5,6 +5,6 @@ public class Demo {
 
         //int sum = a+b;
 
-        New.N(40);
+        New.N(50);
     }
 }
